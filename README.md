@@ -44,18 +44,11 @@ I am currently looking for an opportunity to work as an intern where I can learn
 - Writing reusable functions  
 - Understanding real project structure  
 - Strengthening Git workflow  
-
----
-
-## 📊 GitHub Stats
-
-![Mahdi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=MahdMsv&show_icons=true)
-
 ---
 
 ## 🔥 Streak Stats
 
-![GitHub Streak](https://streak-stats.demolab.com?user=MahdMsv)
+![GitHub Streak](https://streak-stats.demolab.com/?user=MahdMsv)
 
 ---
 
