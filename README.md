@@ -48,7 +48,7 @@ I am currently looking for an opportunity to work as an intern where I can learn
 
 ## 🔥 Streak Stats
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=MahdMsv)
+![GitHub Streak](https://streak-stats.demolab.com?user=MahdMsv&theme=default)
 
 ---
 
