@@ -1,12 +1,12 @@
 #  I'm Mahdi Mousavi
 
-💻 Front-End Developer (JavaScript Focused)  
-🚀 Passionate about building real-world web applications  
-🎯 Currently seeking an internship to gain hands-on experience  
+a Front-End Developer (JavaScript Focused)  
+who is Passionate about building real-world web applications  
+i'm Currently seeking an internship to gain hands-on experience  
 
 ---
 
-## 🧠 About Me
+## About Me
 
 I am a dedicated front-end developer focused on mastering JavaScript and building real-world projects.  
 I believe in consistent daily practice and continuous improvement.
@@ -15,7 +15,7 @@ I am currently looking for an opportunity to work as an intern where I can learn
 
 ---
 
-## 🚀 Tech Stack
+## Tech Stack
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=html" />
@@ -28,7 +28,7 @@ I am currently looking for an opportunity to work as an intern where I can learn
 
 ---
 
-## 📈 Growth & Learning Journey
+## Growth & Learning Journey
 
 - 📌 Deepening my JavaScript knowledge (ES6+)  
 - 📌 Practicing array methods and problem solving  
@@ -38,7 +38,7 @@ I am currently looking for an opportunity to work as an intern where I can learn
 
 ---
 
-## 🧩 What I'm Working On
+## What I'm Working On
 
 - Improving clean code and readability  
 - Writing reusable functions  
@@ -46,13 +46,13 @@ I am currently looking for an opportunity to work as an intern where I can learn
 - Strengthening Git workflow  
 ---
 
-## 🔥 Streak Stats
+##  Streak Stats🔥
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=MahdMsv)
 
 ---
 
-## 📫 Contact Me
+## Contact Me
 
 <p align="left">
   <a href="https://www.linkedin.com/in/mahdmsv">
@@ -68,6 +68,6 @@ I am currently looking for an opportunity to work as an intern where I can learn
 
 ---
 
-## ⚡ Career Goal
+## Career Goal
 
 > My goal is to join a professional team as an intern, gain real-world experience, and grow into a skilled front-end developer who can build scalable and user-friendly applications.
