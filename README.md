@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Mahdi Mousavi
+#  I'm Mahdi Mousavi
 
 💻 Front-End Developer (JavaScript Focused)  
 🚀 Passionate about building real-world web applications  
