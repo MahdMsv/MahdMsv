@@ -30,11 +30,11 @@ I am currently looking for an opportunity to work as an intern where I can learn
 
 ## Growth & Learning Journey
 
-- 📌 Deepening my JavaScript knowledge (ES6+)  
-- 📌 Practicing array methods and problem solving  
-- 📌 Learning asynchronous JavaScript (Promise, Async/Await)  
-- 📌 Building small projects to improve real-world skills  
-- 📌 Preparing for teamwork and real development environments  
+- Deepening my JavaScript knowledge (ES6+)  
+- Practicing array methods and problem solving  
+- Learning asynchronous JavaScript (Promise, Async/Await)  
+- Building small projects to improve real-world skills  
+- Preparing for teamwork and real development environments  
 
 ---
 
