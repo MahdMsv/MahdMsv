@@ -14,7 +14,7 @@
 
 <br/><br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=800&color=2C9BF0&center=true&vCenter=true&width=600&lines=Passionate+about+real-world+web+apps;Currently+seeking+an+internship;Learning+JavaScript+%2B+ES6+every+day;Building+clean%2C+reusable%2C+scalable+code" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=800&color=2C9BF0&center=true&vCenter=true&width=600&lines=Passionate+about+real-world+web+apps;Building+clean%2C+scalable+code;Mastering+JavaScript+%26+ES6+every+day;Ready+to+contribute+to+professional+teams" alt="Typing SVG" />
 
 </div>
 
@@ -22,13 +22,9 @@
 
 ## About Me
 
-I'm a dedicated **front-end developer** focused on mastering JavaScript and building real-world projects. I believe in consistent daily practice and continuous, deliberate improvement.
+I'm a dedicated **front-end developer** with a strong focus on JavaScript and building production-ready web applications. I believe in consistent daily practice, deliberate learning, and writing clean, maintainable code.
 
-I'm currently looking for an **internship opportunity** where I can:
-
-- Learn from real production codebases
-- Collaborate with an experienced team
-- Grow into a confident, capable developer
+My approach is simple: **learn deeply, build constantly, and never settle for "good enough."** I'm currently preparing to step into a professional environment where I can contribute meaningfully, collaborate with experienced developers, and continue growing into a well-rounded engineer.
 
 <br/>
 
@@ -47,20 +43,23 @@ I'm currently looking for an **internship opportunity** where I can:
 <td width="50%" valign="top">
 
 ### Growth & Learning Journey
-- Deepening my JavaScript knowledge (ES6+)
-- Practicing array methods & problem solving
-- Learning Advanced JS — `Promise`, `Async/Await`,`Closure`,...
-- Building small projects for real-world skill
-- Preparing for teamwork & dev environments
+
+- Deepening JavaScript fundamentals — ES6+, closures, hoisting, and the event loop
+- Mastering array methods, functional programming patterns, and data transformation
+- Exploring asynchronous JavaScript — Promises, Async/Await, and error handling
+- Building practical projects to bridge the gap between theory and real-world application
+- Preparing for professional workflows — version control, code reviews, and agile collaboration
 
 </td>
 <td width="50%" valign="top">
 
 ### What I'm Working On
-- Writing clean, readable code
-- Designing reusable functions
-- Understanding real project structure
-- Strengthening my Git workflow
+
+- Writing clean, readable, and self-documenting code
+- Designing reusable, modular components and utility functions
+- Understanding real-world project architecture and folder structures
+- Strengthening my Git workflow — branching strategies, commits, and pull requests
+- Improving problem-solving skills through daily coding challenges
 
 </td>
 </tr>
@@ -87,12 +86,12 @@ I'm currently looking for an **internship opportunity** where I can:
 
 <br/>
 
-## Career Goal
+## Career Vision
 
 <div align="center">
 
-> My goal is to join a professional team as an intern, gain real-world experience,
-> and grow into a skilled front-end developer who can build scalable and user-friendly applications.
+> I'm on a path to becoming a front-end developer who builds scalable, high-performance, and user-centric applications.
+> My focus is on mastering modern JavaScript, embracing best practices, and delivering real value through clean, efficient code.
 
 </div>
 
