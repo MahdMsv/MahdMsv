@@ -58,7 +58,6 @@ My approach is simple: **learn deeply, build constantly, and never settle for "g
 - Writing clean, readable, and self-documenting code
 - Designing reusable, modular components and utility functions
 - Understanding real-world project architecture and folder structures
-- Strengthening my Git workflow — branching strategies, commits, and pull requests
 - Improving problem-solving skills through daily coding challenges
 
 </td>
