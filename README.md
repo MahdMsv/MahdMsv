@@ -1,73 +1,121 @@
-#  I'm Mahdi Mousavi
+<div align="center">
 
-a Front-End Developer (JavaScript Focused)  
-who is Passionate about building real-world web applications  
-i'm Currently seeking an internship to gain hands-on experience  
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:2c5364,100:00c6ff&height=200&section=header&text=Mahdi%20Mousavi&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Front-End%20Developer%20%7C%20JavaScript%20Focused&descAlignY=58&descSize=18" width="100%"/>
 
----
+<a href="https://www.linkedin.com/in/mahdmsv">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="mailto:seyed098mahti86@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+<a href="https://t.me/MahdMsv">
+  <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" />
+</a>
 
-## About Me
+<br/><br/>
 
-I am a dedicated front-end developer focused on mastering JavaScript and building real-world projects.  
-I believe in consistent daily practice and continuous improvement.
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=800&color=2C9BF0&center=true&vCenter=true&width=600&lines=Passionate+about+real-world+web+apps;Currently+seeking+an+internship;Learning+JavaScript+%2B+ES6+every+day;Building+clean%2C+reusable%2C+scalable+code" alt="Typing SVG" />
 
-I am currently looking for an opportunity to work as an intern where I can learn from real projects, collaborate with a team, and grow as a developer.
+</div>
 
----
+<br/>
 
-## Tech Stack
+## 👋 About Me
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=html" />
-  <img src="https://skillicons.dev/icons?i=css" />
-  <img src="https://skillicons.dev/icons?i=js" />
-  <img src="https://skillicons.dev/icons?i=tailwind" />
-  <img src="https://skillicons.dev/icons?i=git" />
-  <img src="https://skillicons.dev/icons?i=github" />
-</p>
+I'm a dedicated **front-end developer** focused on mastering JavaScript and building real-world projects. I believe in consistent daily practice and continuous, deliberate improvement.
 
----
+I'm currently looking for an **internship opportunity** where I can:
 
-## Growth & Learning Journey
+- 🎯 Learn from real production codebases
+- 🤝 Collaborate with an experienced team
+- 🚀 Grow into a confident, capable developer
 
-- Deepening my JavaScript knowledge (ES6+)  
-- Practicing array methods and problem solving  
-- Learning asynchronous JavaScript (Promise, Async/Await)  
-- Building small projects to improve real-world skills  
-- Preparing for teamwork and real development environments  
+<br/>
 
----
+## 🛠️ Tech Stack
 
-## What I'm Working On
+<div align="center">
 
-- Improving clean code and readability  
-- Writing reusable functions  
-- Understanding real project structure  
-- Strengthening Git workflow  
----
+<img src="https://skillicons.dev/icons?i=html,css,js,tailwind,git,github&theme=dark" />
 
-##  Streak Stats🔥
+</div>
 
-![GitHub Streak](https://streak-stats.demolab.com?user=MahdMsv)
+<br/>
 
----
+<table align="center">
+<tr>
+<td width="50%" valign="top">
 
-## Contact Me
+### 📈 Growth & Learning Journey
+- Deepening my JavaScript knowledge (ES6+)
+- Practicing array methods & problem solving
+- Learning async JS — `Promise`, `Async/Await`
+- Building small projects for real-world skill
+- Preparing for teamwork & dev environments
 
-<p align="left">
-  <a href="https://www.linkedin.com/in/mahdmsv">
-    <img src="https://skillicons.dev/icons?i=linkedin" />
-  </a>
-  <a href="mailto:seyed098mahti86@gmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail" />
-  </a>
-  <a href="https://t.me/MahdMsv">
-    <img src="https://cdn.simpleicons.org/telegram" width="48" />
-  </a>
-</p>
+</td>
+<td width="50%" valign="top">
 
----
+### 🔨 What I'm Working On
+- Writing clean, readable code
+- Designing reusable functions
+- Understanding real project structure
+- Strengthening my Git workflow
 
-## Career Goal
+</td>
+</tr>
+</table>
 
-> My goal is to join a professional team as an intern, gain real-world experience, and grow into a skilled front-end developer who can build scalable and user-friendly applications.
+<br/>
+
+## 🔥 GitHub Streak
+
+<div align="center">
+<img src="https://streak-stats.demolab.com?user=MahdMsv&theme=tokyonight&hide_border=true&background=0D1117&stroke=2C9BF0&ring=2C9BF0&fire=FF6B6B&currStreakLabel=2C9BF0" alt="GitHub Streak" />
+</div>
+
+<br/>
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=MahdMsv&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=2C9BF0&icon_color=2C9BF0" height="165" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MahdMsv&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=2C9BF0" height="165" />
+
+</div>
+
+<br/>
+
+## 🎯 Career Goal
+
+<div align="center">
+
+> My goal is to join a professional team as an intern, gain real-world experience,
+> and grow into a skilled front-end developer who can build scalable and user-friendly applications.
+
+</div>
+
+<br/>
+
+## 📬 Let's Connect
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/mahdmsv">
+  <img src="https://skillicons.dev/icons?i=linkedin" />
+</a>
+&nbsp;
+<a href="mailto:seyed098mahti86@gmail.com">
+  <img src="https://skillicons.dev/icons?i=gmail" />
+</a>
+&nbsp;
+<a href="https://t.me/MahdMsv">
+  <img src="https://cdn.simpleicons.org/telegram" width="48" />
+</a>
+
+<br/><br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:2c5364,100:00c6ff&height=100&section=footer" width="100%"/>
+
+</div>
