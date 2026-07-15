@@ -20,19 +20,19 @@
 
 <br/>
 
-## 👋 About Me
+## About Me
 
 I'm a dedicated **front-end developer** focused on mastering JavaScript and building real-world projects. I believe in consistent daily practice and continuous, deliberate improvement.
 
 I'm currently looking for an **internship opportunity** where I can:
 
-- 🎯 Learn from real production codebases
-- 🤝 Collaborate with an experienced team
-- 🚀 Grow into a confident, capable developer
+- Learn from real production codebases
+- Collaborate with an experienced team
+- Grow into a confident, capable developer
 
 <br/>
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 <div align="center">
 
@@ -46,17 +46,17 @@ I'm currently looking for an **internship opportunity** where I can:
 <tr>
 <td width="50%" valign="top">
 
-### 📈 Growth & Learning Journey
+### Growth & Learning Journey
 - Deepening my JavaScript knowledge (ES6+)
 - Practicing array methods & problem solving
-- Learning async JS — `Promise`, `Async/Await`
+- Learning Advanced JS — `Promise`, `Async/Await`,`Closure`,...
 - Building small projects for real-world skill
 - Preparing for teamwork & dev environments
 
 </td>
 <td width="50%" valign="top">
 
-### 🔨 What I'm Working On
+### What I'm Working On
 - Writing clean, readable code
 - Designing reusable functions
 - Understanding real project structure
@@ -68,7 +68,7 @@ I'm currently looking for an **internship opportunity** where I can:
 
 <br/>
 
-## 🔥 GitHub Streak
+##  GitHub Streak 🔥
 
 <div align="center">
 <img src="https://streak-stats.demolab.com?user=MahdMsv&theme=tokyonight&hide_border=true&background=0D1117&stroke=2C9BF0&ring=2C9BF0&fire=FF6B6B&currStreakLabel=2C9BF0" alt="GitHub Streak" />
@@ -76,7 +76,7 @@ I'm currently looking for an **internship opportunity** where I can:
 
 <br/>
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <div align="center">
 
@@ -87,7 +87,7 @@ I'm currently looking for an **internship opportunity** where I can:
 
 <br/>
 
-## 🎯 Career Goal
+## Career Goal
 
 <div align="center">
 
@@ -98,7 +98,7 @@ I'm currently looking for an **internship opportunity** where I can:
 
 <br/>
 
-## 📬 Let's Connect
+## Let's Connect
 
 <div align="center">
 
