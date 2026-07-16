@@ -66,21 +66,10 @@ My approach is simple: **learn deeply, build constantly, and never settle for "g
 
 <br/>
 
-##  GitHub Streak 🔥
+## Streak Stats 🔥
 
 <div align="center">
 <img src="https://streak-stats.demolab.com?user=MahdMsv&theme=tokyonight&hide_border=true&background=0D1117&stroke=2C9BF0&ring=2C9BF0&fire=FF6B6B&currStreakLabel=2C9BF0" alt="GitHub Streak" />
-</div>
-
-<br/>
-
-## GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=MahdMsv&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=2C9BF0&icon_color=2C9BF0" height="165" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MahdMsv&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=2C9BF0" height="165" />
-
 </div>
 
 <br/>
