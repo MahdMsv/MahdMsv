@@ -85,7 +85,7 @@ My approach is simple: **learn deeply, build constantly, and never settle for "g
 
 <br/>
 
-## Let's Connect
+## Socials
 
 <div align="center">
 
