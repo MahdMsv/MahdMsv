@@ -21,7 +21,7 @@
 
 <div align="center">
 
-Front-End Developer focused on JavaScript, building real-world, production-ready web applications with clean, maintainable code.
+Front-End Developer with a strong focus on JavaScript. I am currently deep-diving into advanced concepts like asynchronous programming (Fetch API, Promises, Async/Await), Closures, and the Event Loop. Writing clean, modular, and maintainable code is my top priority. I follow a self-directed, project-based learning approach and leverage AI as a 24/7 mentor to accelerate my growth and solve real coding challenges.
 
 </div>
 
@@ -53,7 +53,11 @@ Front-End Developer focused on JavaScript, building real-world, production-ready
 
 <div align="center">
 
-Deepening JavaScript fundamentals · Functional patterns &amp; array methods · Async JavaScript (Promises/Async-Await) · Clean architecture &amp; professional workflows
+I am actively transitioning from JavaScript fundamentals to advanced patterns. My daily practice includes handling network requests with fetch, managing multiple operations with Promise.all, writing readable async/await flows, and mastering the intricacies of Closures and Scope.
+
+Alongside this, I have started my journey into React. My goal is to fully grasp its core concepts—components, state, props, and hooks—within the next three months.
+
+My learning method is hands-on: I build small, practical samples (like a weather dashboard with Fetch or a counter using Closures) to solidify every new idea. I constantly use AI for instant code reviews, debugging, and generating fresh exercise ideas to push my boundaries further.
 
 </div>
 
@@ -74,9 +78,19 @@ Deepening JavaScript fundamentals · Functional patterns &amp; array methods · 
 
 <div align="center">
 
-> Becoming a developer who builds **scalable, high-performance, user-focused applications**
-> with clean, efficient, and maintainable code.
-
+Within the next 6 months (give or take), I envision myself as a developer who is:
+<ul>
+  <li>
+    Fully proficient in React, capable of managing complex component structures and application state effectively.
+  </li>
+  <li>
+    Professional in combining React with Tailwind CSS to design beautiful, responsive, and high-performance user interfaces.
+  </li>
+  <li>
+    Deeply knowledgeable in JavaScript architectural patterns (like Custom Hooks and Container/Presentational components) ready to be applied in real-world projects.
+  </li>
+</ul>
+Ultimately, I aim to be fully prepared for professional team collaboration, delivering well-documented, production-ready code. I will achieve this through consistent daily practice, building personal projects, and actively seeking feedback from the developer community.
 </div>
 
 
