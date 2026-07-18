@@ -16,7 +16,6 @@
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f2027,100:00c6ff&height=3&width=100%"/>
 
 ## About Me
 
@@ -26,7 +25,6 @@ Front-End Developer focused on JavaScript, building real-world, production-ready
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f2027,100:00c6ff&height=3&width=100%"/>
 
 ## Tech Stack
 
@@ -50,7 +48,6 @@ Front-End Developer focused on JavaScript, building real-world, production-ready
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f2027,100:00c6ff&height=3&width=100%"/>
 
 ## Growth & Learning
 
@@ -60,7 +57,6 @@ Deepening JavaScript fundamentals · Functional patterns &amp; array methods · 
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f2027,100:00c6ff&height=3&width=100%"/>
 
 ## GitHub Stats
 
@@ -73,7 +69,6 @@ Deepening JavaScript fundamentals · Functional patterns &amp; array methods · 
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f2027,100:00c6ff&height=3&width=100%"/>
 
 ## Career Vision
 
@@ -84,7 +79,6 @@ Deepening JavaScript fundamentals · Functional patterns &amp; array methods · 
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f2027,100:00c6ff&height=3&width=100%"/>
 
 ## Socials
 
