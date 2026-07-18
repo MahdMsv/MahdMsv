@@ -2,8 +2,6 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:2c5364,100:00c6ff&height=220&section=header&text=Mahdi%20Mousavi&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Front-End%20Developer%20%7C%20JavaScript%20Focused&descAlignY=55&descSize=18" width="100%"/>
 
-<br/>
-
 <a href="https://www.linkedin.com/in/mahdmsv">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
@@ -14,15 +12,13 @@
   <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" />
 </a>
 
-<br/><br/>
-
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=23&duration=3000&pause=800&color=00C6FF&center=true&vCenter=true&width=650&lines=Front-End+Developer+%7C+JavaScript+Focused;Building+clean%2C+scalable+web+apps;Mastering+JavaScript+%26+ES6%2B+every+day;Ready+to+contribute+to+professional+teams" />
 
 </div>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f2027,100:00c6ff&height=3&width=100%"/>
 
-## 🧑‍💻 About Me
+## About Me
 
 <div align="center">
 
@@ -32,7 +28,7 @@ Front-End Developer focused on JavaScript, building real-world, production-ready
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f2027,100:00c6ff&height=3&width=100%"/>
 
-## 🚀 Tech Stack
+## Tech Stack
 
 <div align="center">
 
@@ -44,9 +40,7 @@ Front-End Developer focused on JavaScript, building real-world, production-ready
 
 </div>
 
-<br/>
-
-## 🛠 Tools
+## Tools
 
 <div align="center">
 
@@ -58,7 +52,7 @@ Front-End Developer focused on JavaScript, building real-world, production-ready
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f2027,100:00c6ff&height=3&width=100%"/>
 
-## 📈 Growth & Learning
+## Growth & Learning
 
 <div align="center">
 
@@ -68,14 +62,12 @@ Deepening JavaScript fundamentals · Functional patterns &amp; array methods · 
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f2027,100:00c6ff&height=3&width=100%"/>
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <div align="center">
 
 <img height="165" src="https://github-readme-stats.vercel.app/api?username=MahdMsv&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00C6FF&icon_color=00C6FF&text_color=c9d1d9&rank_icon=github"/>
 <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MahdMsv&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00C6FF&text_color=c9d1d9"/>
-
-<br/>
 
 <img src="https://streak-stats.demolab.com?user=MahdMsv&theme=tokyonight&hide_border=true&background=0D1117&stroke=00C6FF&ring=00C6FF&fire=00C6FF&currStreakLabel=00C6FF"/>
 
@@ -83,17 +75,7 @@ Deepening JavaScript fundamentals · Functional patterns &amp; array methods · 
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f2027,100:00c6ff&height=3&width=100%"/>
 
-## 🐍 Contribution Graph
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/MahdMsv/MahdMsv/output/github-contribution-grid-snake-dark.svg" width="100%"/>
-
-</div>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f2027,100:00c6ff&height=3&width=100%"/>
-
-## 🎯 Career Vision
+## Career Vision
 
 <div align="center">
 
@@ -104,7 +86,7 @@ Deepening JavaScript fundamentals · Functional patterns &amp; array methods · 
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f2027,100:00c6ff&height=3&width=100%"/>
 
-## 🌐 Connect With Me
+## Socials
 
 <div align="center">
 
@@ -119,7 +101,5 @@ Deepening JavaScript fundamentals · Functional patterns &amp; array methods · 
 </a>
 
 </div>
-
-<br/>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:2c5364,100:00c6ff&height=120&section=footer" width="100%"/>
