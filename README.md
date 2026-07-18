@@ -1,6 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:2c5364,100:00c6ff&height=200&section=header&text=Mahdi%20Mousavi&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Front-End%20Developer%20%7C%20JavaScript%20Focused&descAlignY=58&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:2c5364,100:00c6ff&height=220&section=header&text=Mahdi%20Mousavi&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Front-End%20Developer%20%7C%20JavaScript%20Focused&descAlignY=55&descSize=18" width="100%"/>
+
+<br/>
 
 <a href="https://www.linkedin.com/in/mahdmsv">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
@@ -14,95 +16,123 @@
 
 <br/><br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=800&color=2C9BF0&center=true&vCenter=true&width=600&lines=Passionate+about+real-world+web+apps;Building+clean%2C+scalable+code;Mastering+JavaScript+%26+ES6+every+day;Ready+to+contribute+to+professional+teams" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=23&duration=3000&pause=800&color=00C6FF&center=true&vCenter=true&width=650&lines=Front-End+Developer+%7C+JavaScript+Focused;Building+clean%2C+scalable+web+apps;Mastering+JavaScript+%26+ES6%2B+every+day;Ready+to+contribute+to+professional+teams" />
+
+<br/>
+
+<img src="https://img.shields.io/badge/status-open%20to%20work-00C6FF?style=for-the-badge&logo=vercel&logoColor=white"/>
+<img src="https://img.shields.io/badge/focus-front--end%20development-0f2027?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
 
 </div>
 
 <br/>
 
-## About Me
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f2027,100:00c6ff&height=3&width=100%"/>
 
-I'm a dedicated **front-end developer** with a strong focus on JavaScript and building production-ready web applications. I believe in consistent daily practice, deliberate learning, and writing clean, maintainable code.
-
-My approach is simple: **learn deeply, build constantly, and never settle for "good enough."** I'm currently preparing to step into a professional environment where I can contribute meaningfully, collaborate with experienced developers, and continue growing into a well-rounded engineer.
-
-<br/>
-
-## Tech Stack
+## 🧑‍💻 About Me
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,js,tailwind,git,github&theme=dark" />
+I'm a dedicated **Front-End Developer** focused on JavaScript and building real-world, production-ready web applications.
+I believe in **consistency, deep learning, and clean code** — and I'm currently preparing to join a professional team where I can grow, collaborate, and deliver real value.
 
 </div>
 
-<br/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f2027,100:00c6ff&height=3&width=100%"/>
 
-<table align="center">
-<tr>
-<td width="50%" valign="top">
-
-### Growth & Learning Journey
-
-- Deepening JavaScript fundamentals — ES6+, closures, hoisting, and the event loop
-- Mastering array methods, functional programming patterns, and data transformation
-- Exploring asynchronous JavaScript — Promises, Async/Await, and error handling
-- Building practical projects to bridge the gap between theory and real-world application
-- Preparing for professional workflows — version control, code reviews, and agile collaboration
-
-</td>
-<td width="50%" valign="top">
-
-### What I'm Working On
-
-- Writing clean, readable, and self-documenting code
-- Designing reusable, modular components and utility functions
-- Understanding real-world project architecture and folder structures
-- Improving problem-solving skills through daily coding challenges
-
-</td>
-</tr>
-</table>
-
-<br/>
-
-## Streak Stats 🔥
-
-<div align="center">
-<img src="https://streak-stats.demolab.com?user=MahdMsv&theme=tokyonight&hide_border=true&background=0D1117&stroke=2C9BF0&ring=2C9BF0&fire=FF6B6B&currStreakLabel=2C9BF0" alt="GitHub Streak" />
-</div>
-
-<br/>
-
-## Career Vision
+## 🚀 Tech Stack
 
 <div align="center">
 
-> I'm on a path to becoming a front-end developer who builds scalable, high-performance, and user-centric applications.
-> My focus is on mastering modern JavaScript, embracing best practices, and delivering real value through clean, efficient code.
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+<img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwindcss&logoColor=white" />
+<img src="https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=mysql&logoColor=white" />
 
 </div>
 
 <br/>
 
-## Socials
+## 🛠 Tools
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+<img src="https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
+<img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f2027,100:00c6ff&height=3&width=100%"/>
+
+## 📈 Growth & Learning
+
+<div align="center">
+
+🔹 Deepening JavaScript fundamentals (ES6+, closures, event loop)
+🔹 Mastering array methods &amp; functional patterns
+🔹 Working with async JavaScript (Promises, Async/Await)
+🔹 Building real-world projects consistently
+🔹 Learning clean architecture &amp; professional workflows
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f2027,100:00c6ff&height=3&width=100%"/>
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=MahdMsv&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00C6FF&icon_color=00C6FF&text_color=c9d1d9&rank_icon=github"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MahdMsv&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00C6FF&text_color=c9d1d9"/>
+
+<br/>
+
+<img src="https://streak-stats.demolab.com?user=MahdMsv&theme=tokyonight&hide_border=true&background=0D1117&stroke=00C6FF&ring=00C6FF&fire=00C6FF&currStreakLabel=00C6FF"/>
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f2027,100:00c6ff&height=3&width=100%"/>
+
+## 🐍 Contribution Graph
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/MahdMsv/MahdMsv/output/github-contribution-grid-snake-dark.svg" width="100%"/>
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f2027,100:00c6ff&height=3&width=100%"/>
+
+## 🎯 Career Vision
+
+<div align="center">
+
+> Becoming a developer who builds **scalable, high-performance, user-focused applications**
+> with clean, efficient, and maintainable code.
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f2027,100:00c6ff&height=3&width=100%"/>
+
+## 🌐 Connect With Me
 
 <div align="center">
 
 <a href="https://www.linkedin.com/in/mahdmsv">
-  <img src="https://skillicons.dev/icons?i=linkedin" />
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
-&nbsp;
 <a href="mailto:seyed098mahti86@gmail.com">
-  <img src="https://skillicons.dev/icons?i=gmail" />
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
-&nbsp;
 <a href="https://t.me/MahdMsv">
-  <img src="https://cdn.simpleicons.org/telegram" width="48" />
+  <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" />
 </a>
-
-<br/><br/>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:2c5364,100:00c6ff&height=100&section=footer" width="100%"/>
 
 </div>
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:2c5364,100:00c6ff&height=120&section=footer" width="100%"/>
