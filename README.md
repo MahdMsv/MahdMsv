@@ -61,19 +61,6 @@ My learning method is hands-on: I build small, practical samples (like a weather
 
 </div>
 
-
-## GitHub Stats
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=MahdMsv&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00C6FF&icon_color=00C6FF&text_color=c9d1d9&rank_icon=github"/>
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MahdMsv&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00C6FF&text_color=c9d1d9"/>
-
-<img src="https://streak-stats.demolab.com?user=MahdMsv&theme=tokyonight&hide_border=true&background=0D1117&stroke=00C6FF&ring=00C6FF&fire=00C6FF&currStreakLabel=00C6FF"/>
-
-</div>
-
-
 ## Career Vision
 
 <div align="center">
