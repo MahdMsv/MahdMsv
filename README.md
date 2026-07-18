@@ -18,14 +18,7 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=23&duration=3000&pause=800&color=00C6FF&center=true&vCenter=true&width=650&lines=Front-End+Developer+%7C+JavaScript+Focused;Building+clean%2C+scalable+web+apps;Mastering+JavaScript+%26+ES6%2B+every+day;Ready+to+contribute+to+professional+teams" />
 
-<br/>
-
-<img src="https://img.shields.io/badge/status-open%20to%20work-00C6FF?style=for-the-badge&logo=vercel&logoColor=white"/>
-<img src="https://img.shields.io/badge/focus-front--end%20development-0f2027?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
-
 </div>
-
-<br/>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f2027,100:00c6ff&height=3&width=100%"/>
 
@@ -33,8 +26,7 @@
 
 <div align="center">
 
-I'm a dedicated **Front-End Developer** focused on JavaScript and building real-world, production-ready web applications.
-I believe in **consistency, deep learning, and clean code** — and I'm currently preparing to join a professional team where I can grow, collaborate, and deliver real value.
+Front-End Developer focused on JavaScript, building real-world, production-ready web applications with clean, maintainable code.
 
 </div>
 
@@ -61,7 +53,6 @@ I believe in **consistency, deep learning, and clean code** — and I'm currentl
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
 <img src="https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=white" />
 <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
-<img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
 
 </div>
 
@@ -71,11 +62,7 @@ I believe in **consistency, deep learning, and clean code** — and I'm currentl
 
 <div align="center">
 
-🔹 Deepening JavaScript fundamentals (ES6+, closures, event loop)
-🔹 Mastering array methods &amp; functional patterns
-🔹 Working with async JavaScript (Promises, Async/Await)
-🔹 Building real-world projects consistently
-🔹 Learning clean architecture &amp; professional workflows
+Deepening JavaScript fundamentals · Functional patterns &amp; array methods · Async JavaScript (Promises/Async-Await) · Clean architecture &amp; professional workflows
 
 </div>
 
