@@ -11,7 +11,7 @@
 <a href="https://t.me/MahdMsv">
   <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" />
 </a>
-
+<br/><br/>
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=23&duration=3000&pause=800&color=00C6FF&center=true&vCenter=true&width=650&lines=Front-End+Developer+%7C+JavaScript+Focused;Building+clean%2C+scalable+web+apps;Mastering+JavaScript+%26+ES6%2B+every+day;Ready+to+contribute+to+professional+teams" />
 
 </div>
