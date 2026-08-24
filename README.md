@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:2c5364,100:00c6ff&height=220&section=header&text=Mahdi%20Mousavi&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Front-End%20Developer%20%7C%20React%20Focused&descAlignY=55&descSize=18%22%20width=%22100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:2c5364,100:00c6ff&height=220&section=header&text=Mahdi%20Mousavi&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Front-End%20Developer%20%7C%20JavaScript%20%26%20Learning%20React&descAlignY=55&descSize=18" width="100%"/>
 
 <a href="https://www.linkedin.com/in/mahdmsv">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
@@ -62,11 +62,12 @@ Having completed my core JavaScript journey (mastering DOM manipulation, Asynchr
 
 With a strong grasp of core JavaScript concepts, I am currently dedicating my efforts to learning **React** from the ground up:
 
-<b>React Fundamentals:</b> Understanding JSX, Component Architecture, Props, and State Management using <code>useState</code>.
-<b>Hooks & Lifecycle:</b> Learning standard hooks like <code>useEffect</code> to handle side effects and data fetching.
-<b>Project-Based Practice:</b> Translating vanilla JavaScript projects into structured React components.
-<b>Workflow Integration:</b> Setting up modern development environments using Vite.
-
+<ul align="left">
+  <li><b>React Fundamentals:</b> Understanding JSX, Component Architecture, Props, and State Management using <code>useState</code>.</li>
+  <li><b>Hooks & Lifecycle:</b> Learning standard hooks like <code>useEffect</code> to handle side effects and data fetching.</li>
+  <li><b>Project-Based Practice:</b> Translating vanilla JavaScript projects into structured React components.</li>
+  <li><b>Workflow Integration:</b> Setting up modern development environments using Vite.</li>
+</ul>
 
 </div>
 
@@ -76,9 +77,11 @@ With a strong grasp of core JavaScript concepts, I am currently dedicating my ef
 
 I am working towards becoming a job-ready Frontend Developer capable of:
 
-  Building dynamic, component-driven user interfaces with React and Tailwind CSS.
-  Writing scalable, well-structured, and documented code ready for production environments.
-  Collaborating effectively within professional engineering teams using standard Git workflows.
+<ul align="left">
+  <li>Building dynamic, component-driven user interfaces with React and Tailwind CSS.</li>
+  <li>Writing scalable, well-structured, and documented code ready for production environments.</li>
+  <li>Collaborating effectively within professional engineering teams using standard Git workflows.</li>
+</ul>
 
 </div>
 
