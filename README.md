@@ -16,7 +16,7 @@
 
 </div>
 
-## 🚀 About Me
+## About Me
 
 <div align="center">
 
@@ -26,7 +26,7 @@ Having completed my core JavaScript journey (mastering DOM manipulation, Asynchr
 
 </div>
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 <div align="center">
 
@@ -37,7 +37,7 @@ Having completed my core JavaScript journey (mastering DOM manipulation, Asynchr
 
 </div>
 
-### 🌱 Currently Learning
+### Currently Learning
 
 <div align="center">
 
@@ -46,7 +46,7 @@ Having completed my core JavaScript journey (mastering DOM manipulation, Asynchr
 
 </div>
 
-## 🧰 Tools & Environment
+## Tools & Environment
 
 <div align="center">
 
@@ -56,22 +56,21 @@ Having completed my core JavaScript journey (mastering DOM manipulation, Asynchr
 
 </div>
 
-## 📈 Current Focus & Growth
+## Current Focus & Growth
 
 <div align="center">
 
 With a strong grasp of core JavaScript concepts, I am currently dedicating my efforts to learning **React** from the ground up:
 
-<ul>
-  <li><b>React Fundamentals:</b> Understanding JSX, Component Architecture, Props, and State Management using <code>useState</code>.</li>
-  <li><b>Hooks & Lifecycle:</b> Learning standard hooks like <code>useEffect</code> to handle side effects and data fetching.</li>
-  <li><b>Project-Based Practice:</b> Translating vanilla JavaScript projects into structured React components.</li>
-  <li><b>Workflow Integration:</b> Setting up modern development environments using Vite.</li>
-</ul>
+<b>React Fundamentals:</b> Understanding JSX, Component Architecture, Props, and State Management using <code>useState</code>.
+<b>Hooks & Lifecycle:</b> Learning standard hooks like <code>useEffect</code> to handle side effects and data fetching.
+<b>Project-Based Practice:</b> Translating vanilla JavaScript projects into structured React components.
+<b>Workflow Integration:</b> Setting up modern development environments using Vite.
+
 
 </div>
 
-## 🎯 Career Vision
+## Career Vision
 
 <div align="center">
 
@@ -84,7 +83,7 @@ I am working towards becoming a job-ready Frontend Developer capable of:
 
 </div>
 
-## 📫 Connect With Me
+## Connect With Me
 
 <div align="center">
 
