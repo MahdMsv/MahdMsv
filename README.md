@@ -32,7 +32,7 @@
 
 ---
 
-## 🚀 About Me
+## About Me
 
 <p align="center">
 I am a <b>Front-End Developer</b> with a solid foundation in <b>Modern JavaScript (ES6+)</b>, responsive web design, and styling tools.<br/><br/>
@@ -41,7 +41,7 @@ Having completed my core JavaScript journey (mastering DOM manipulation, Asynchr
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 <p align="center">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
@@ -50,7 +50,7 @@ Having completed my core JavaScript journey (mastering DOM manipulation, Asynchr
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
 </p>
 
-### 🌱 Currently Learning
+### Currently Learning
 
 <p align="center">
   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
@@ -59,7 +59,7 @@ Having completed my core JavaScript journey (mastering DOM manipulation, Asynchr
 
 ---
 
-## 🧰 Tools & Environment
+## Tools & Environment
 
 <p align="center">
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
@@ -69,7 +69,7 @@ Having completed my core JavaScript journey (mastering DOM manipulation, Asynchr
 
 ---
 
-## 📈 Current Focus & Growth
+## Current Focus & Growth
 
 With a strong grasp of core JavaScript concepts, I am currently dedicating my efforts to learning **React** from the ground up:
 
@@ -80,7 +80,7 @@ With a strong grasp of core JavaScript concepts, I am currently dedicating my ef
 
 ---
 
-## 🎯 Career Vision
+## Career Vision
 
 I am working towards becoming a job-ready Frontend Developer capable of:
 
@@ -90,7 +90,7 @@ I am working towards becoming a job-ready Frontend Developer capable of:
 
 ---
 
-## 📫 Connect With Me
+## Connect With Me
 
 <p align="center">
   <a href="https://www.linkedin.com/in/mahdmsv">
