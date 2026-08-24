@@ -36,6 +36,7 @@ I am a <b>Front-End Developer</b> with a solid foundation in <b>Modern JavaScrip
 Having completed my core JavaScript journey (mastering DOM manipulation, Asynchronous code, Promises, Async/Await, and Closures), I am now actively stepping into the <b>React</b> ecosystem. I focus on writing modular, clean, and maintainable code through hands-on project building while steadily advancing my frontend capabilities.
 </p>
 
+
 ## Tech Stack
 
 <p align="center">
@@ -45,12 +46,14 @@ Having completed my core JavaScript journey (mastering DOM manipulation, Asynchr
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
 </p>
 
+
 ### Currently Learning
 
 <p align="center">
   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
   <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" />
 </p>
+
 
 ## Tools & Environment
 
@@ -59,6 +62,7 @@ Having completed my core JavaScript journey (mastering DOM manipulation, Asynchr
   <img src="https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=white" />
   <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
 </p>
+
 
 ## Current Focus & Growth
 
@@ -69,6 +73,7 @@ With a strong grasp of core JavaScript concepts, I am currently dedicating my ef
 * **Project-Based Practice:** Translating vanilla JavaScript projects into structured React components.
 * **Workflow Integration:** Setting up modern development environments using Vite.
 
+
 ## Career Vision
 
 I am working towards becoming a job-ready Frontend Developer capable of:
@@ -76,6 +81,7 @@ I am working towards becoming a job-ready Frontend Developer capable of:
 * Building dynamic, component-driven user interfaces with React and Tailwind CSS.
 * Writing scalable, well-structured, and documented code ready for production environments.
 * Collaborating effectively within professional engineering teams using standard Git workflows.
+
 
 ## Connect With Me
 
