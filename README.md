@@ -75,11 +75,10 @@ With a strong grasp of core JavaScript concepts, I am currently dedicating my ef
 <div align="center">
 
 I am working towards becoming a job-ready Frontend Developer capable of:
-<ul>
-  <li>Building dynamic, component-driven user interfaces with React and Tailwind CSS.</li>
-  <li>Writing scalable, well-structured, and documented code ready for production environments.</li>
-  <li>Collaborating effectively within professional engineering teams using standard Git workflows.</li>
-</ul>
+
+  Building dynamic, component-driven user interfaces with React and Tailwind CSS.
+  Writing scalable, well-structured, and documented code ready for production environments.
+  Collaborating effectively within professional engineering teams using standard Git workflows.
 
 </div>
 
