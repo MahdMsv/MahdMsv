@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:2c5364,100:00c6ff&height=220&section=header&text=Mahdi%20Mousavi&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Front-End%20Developer%20%7C%20JavaScript%20Focused&descAlignY=55&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:2c5364,100:00c6ff&height=220&section=header&text=Mahdi%20Mousavi&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Front-End%20Developer%20%7C%20JavaScript%20%26%20Learning%20React&descAlignY=55&descSize=18" width="100%"/>
 
 <a href="https://www.linkedin.com/in/mahdmsv">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
@@ -12,33 +12,41 @@
   <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" />
 </a>
 <br/><br/>
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=23&duration=3000&pause=800&color=00C6FF&center=true&vCenter=true&width=650&lines=Front-End+Developer+%7C+JavaScript+Focused;Building+clean%2C+scalable+web+apps;Mastering+JavaScript+%26+ES6%2B+every+day;Ready+to+contribute+to+professional+teams" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=23&duration=3000&pause=800&color=00C6FF&center=true&vCenter=true&width=650&lines=Front-End+Developer+%7C+JavaScript+Focused;Solid+JavaScript+(ES6%2B)+Background;Currently+Exploring+React.js;Building+Clean+%26+Responsive+Web+Apps" />
 
 </div>
 
-
-## About Me
+## 🚀 About Me
 
 <div align="center">
 
-Front-End Developer with a strong focus on JavaScript. I am currently deep-diving into advanced concepts like asynchronous programming (Fetch API, Promises, Async/Await), Closures, and the Event Loop. Writing clean, modular, and maintainable code is my top priority. I follow a self-directed, project-based learning approach and leverage AI as a 24/7 mentor to accelerate my growth and solve real coding challenges.
+I am a **Front-End Developer** with a solid foundation in **Modern JavaScript (ES6+)**, responsive web design, and styling tools.
+
+Having completed my core JavaScript journey (mastering DOM manipulation, Asynchronous code, Promises, Async/Await, and Closures), I am now actively stepping into the **React** ecosystem. I focus on writing modular, clean, and maintainable code through hands-on project building while steadily advancing my frontend capabilities.
 
 </div>
 
-
-## Tech Stack
+## 🛠️ Tech Stack
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
 <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwindcss&logoColor=white" />
-<img src="https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=mysql&logoColor=white" />
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
 
 </div>
 
-## Tools
+### 🌱 Currently Learning
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+<img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" />
+
+</div>
+
+## 🧰 Tools & Environment
 
 <div align="center">
 
@@ -48,40 +56,35 @@ Front-End Developer with a strong focus on JavaScript. I am currently deep-divin
 
 </div>
 
-
-## Growth & Learning
-
-<div align="center">
-
-I am actively transitioning from JavaScript fundamentals to advanced patterns. My daily practice includes handling network requests with fetch, managing multiple operations with Promise.all, writing readable async/await flows, and mastering the intricacies of Closures and Scope.
-
-Alongside this, I have started my journey into React. My goal is to fully grasp its core concepts—components, state, props, and hooks—within the next three months.
-
-My learning method is hands-on: I build small, practical samples (like a weather dashboard with Fetch or a counter using Closures) to solidify every new idea. I constantly use AI for instant code reviews, debugging, and generating fresh exercise ideas to push my boundaries further.
-
-</div>
-
-## Career Vision
+## 📈 Current Focus & Growth
 
 <div align="center">
 
-Within the next 6 months (give or take), I envision myself as a developer who is:
+With a strong grasp of core JavaScript concepts, I am currently dedicating my efforts to learning **React** from the ground up:
+
 <ul>
-  <li>
-    Fully proficient in React, capable of managing complex component structures and application state effectively.
-  </li>
-  <li>
-    Professional in combining React with Tailwind CSS to design beautiful, responsive, and high-performance user interfaces.
-  </li>
-  <li>
-    Deeply knowledgeable in JavaScript architectural patterns (like Custom Hooks and Container/Presentational components) ready to be applied in real-world projects.
-  </li>
+  <li><b>React Fundamentals:</b> Understanding JSX, Component Architecture, Props, and State Management using <code>useState</code>.</li>
+  <li><b>Hooks & Lifecycle:</b> Learning standard hooks like <code>useEffect</code> to handle side effects and data fetching.</li>
+  <li><b>Project-Based Practice:</b> Translating vanilla JavaScript projects into structured React components.</li>
+  <li><b>Workflow Integration:</b> Setting up modern development environments using Vite.</li>
 </ul>
-Ultimately, I aim to be fully prepared for professional team collaboration, delivering well-documented, production-ready code. I will achieve this through consistent daily practice, building personal projects, and actively seeking feedback from the developer community.
+
 </div>
 
+## 🎯 Career Vision
 
-## Socials
+<div align="center">
+
+I am working towards becoming a job-ready Frontend Developer capable of:
+<ul>
+  <li>Building dynamic, component-driven user interfaces with React and Tailwind CSS.</li>
+  <li>Writing scalable, well-structured, and documented code ready for production environments.</li>
+  <li>Collaborating effectively within professional engineering teams using standard Git workflows.</li>
+</ul>
+
+</div>
+
+## 📫 Connect With Me
 
 <div align="center">
 
