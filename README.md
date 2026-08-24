@@ -1,22 +1,34 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:2c5364,100:00c6ff&height=220&section=header&text=Mahdi%20Mousavi&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Front-End%20Developer%20%7C%20JavaScript%20%26%20Learning%20React&descAlignY=55&descSize=18" width="100%" alt="Header Banner" />
-</p>
+<div align="center">
+  <img
+    src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:2c5364,100:00c6ff&height=220&section=header&text=Mahdi%20Mousavi&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Front-End%20Developer%20%7C%20ReactJs%20Focused&descAlignY=55&descSize=18"
+    width="100%"
+  />
 
-<p align="center">
   <a href="https://www.linkedin.com/in/mahdmsv">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img
+      src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
+    />
   </a>
-  <a href="mailto:seyed098mahti86@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://t.me/MahdMsv">
-    <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" />
-  </a>
-</p>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=23&duration=3000&pause=800&color=00C6FF&center=true&vCenter=true&width=650&lines=Front-End+Developer+%7C+JavaScript+Focused;Solid+JavaScript+(ES6%2B)+Background;Currently+Exploring+React.js;Building+Clean+%26+Responsive+Web+Apps" />
-</p>
+  <a href="mailto:seyed098mahti86@gmail.com">
+    <img
+      src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"
+    />
+  </a>
+
+  <a href="https://t.me/MahdMsv">
+    <img
+      src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white"
+    />
+  </a>
+
+  <br /><br />
+
+  <img
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=23&duration=3000&pause=800&color=00C6FF&center=true&vCenter=true&width=650&lines=Front-End+Developer+%7C+JavaScript+Focused;Solid+JavaScript+(ES6%2B)+Background;Currently+Exploring+React.js;Building+Clean+%26+Responsive+Web+Apps"
+  />
+</div>
+
 
 ---
 
